@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\12553701b3b1d53210f85bbc1da3d5a3\\transformed\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\12553701b3b1d53210f85bbc1da3d5a3\\transformed\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\12553701b3b1d53210f85bbc1da3d5a3\\transformed\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]

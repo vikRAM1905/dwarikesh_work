@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\ee504c8c0e725e154e38005627c6683e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\ee504c8c0e725e154e38005627c6683e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\ee504c8c0e725e154e38005627c6683e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\ee504c8c0e725e154e38005627c6683e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\ee504c8c0e725e154e38005627c6683e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\ee504c8c0e725e154e38005627c6683e\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\ee504c8c0e725e154e38005627c6683e\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\ee504c8c0e725e154e38005627c6683e\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\ee504c8c0e725e154e38005627c6683e\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

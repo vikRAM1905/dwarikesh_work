@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\geolocator_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\fe72df35da731b644d2a60faa9ada4e0\\transformed\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\geolocator_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\fe72df35da731b644d2a60faa9ada4e0\\transformed\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\gayur\\Downloads\\Dwarikesh_new\\build\\geolocator_android\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\gayur\\.gradle\\caches\\transforms-3\\fe72df35da731b644d2a60faa9ada4e0\\transformed\\jetified-play-services-base-17.0.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    }
+]
